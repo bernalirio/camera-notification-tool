@@ -1,5 +1,5 @@
 [package]
-name = "camera-monitor"
+name = "camera-notification-tool"
 version = "0.1.0"
 edition = "2021"
 description = "A lightweight Rust tool that notifies you when the webcam is active."
