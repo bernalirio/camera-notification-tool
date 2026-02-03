@@ -1,0 +1,11 @@
+[package]
+name = "camera-monitor"
+version = "0.1.0"
+edition = "2021"
+description = "A lightweight Rust tool that notifies you when the webcam is active."
+authors = ["Bernardo <bernardolirio2@tecnico.ulisboa.pt>"]
+license = "MIT"
+
+[dependencies]
+udev = "0.8"
+notify-rust = "4"

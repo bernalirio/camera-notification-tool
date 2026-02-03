@@ -1,0 +1,9 @@
+[Unit]
+Description=Webcam Activity Monitor
+
+[Service]
+ExecStart=%h/.local/bin/camera-monitor
+Restart=always
+
+[Install]
+WantedBy=default.target
