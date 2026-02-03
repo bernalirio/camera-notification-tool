@@ -1,8 +1,4 @@
 # Linux Camera Monitor
-
-A lightweight, zero-overhead Rust utility that triggers a desktop notification whenever your webcam is activated or deactivated.
-
-### Why use this?
 This tool was originally built for **Arch Linux** that was lacking a built-in "Camera On" indicator.
 
 However, because it uses the standard `notify-rust` crate, **it works out-of-the-box on virtually any Linux distribution** and any Desktop Environment that supports the standard notification protocol.
