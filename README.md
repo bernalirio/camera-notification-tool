@@ -29,5 +29,8 @@ systemctl --user daemon-reload
 systemctl --user enable --now camera-monitor
 ```
 
+## Disclaimer
+This software is provided "as is", without warranty of any kind. While this tool has been tested on the Ajazz AK820 Pro, I am not responsible for any issues that may arise from its use.
+
 ## Licence
 MIT License
